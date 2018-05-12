@@ -1,0 +1,31 @@
+_repo: Charles-Carleton-CoffinWar-Correspondent-Traveller-Author-and-Statesman_22238
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Griffis, William Elliot
+    aliases:
+    - Griffis, William Eliot
+    - Griffis, W. E. (William Elliot)
+    birthdate: 1843
+    deathdate: 1928
+    gutenberg_agent_id: '2568'
+    url: http://www.gutenberg.org/2009/agents/2568
+    wikipedia: http://en.wikipedia.org/wiki/William_Elliot_Griffis
+description: ''
+gutenberg_issued: '2007-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22238'
+  lccn: c98000076
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'Coffin, Charles Carleton, 1823-1896'
+title: 'Charles Carleton Coffin: War Correspondent, Traveller, Author, and Statesman'
+url: http://www.gutenberg.org/ebooks/22238
