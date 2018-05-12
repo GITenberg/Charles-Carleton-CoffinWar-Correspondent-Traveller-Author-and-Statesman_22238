@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2568
     wikipedia: http://en.wikipedia.org/wiki/William_Elliot_Griffis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22238#Charles-Carleton-CoffinWar-Correspondent-Traveller-Author-and-Statesman
 gutenberg_issued: '2007-08-04'
 gutenberg_type: Text
 identifiers:
